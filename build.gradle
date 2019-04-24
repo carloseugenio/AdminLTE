@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'ivy-publish'
 
-group = 'org.engen'
+group = 'org.engen.webjars'
 version = '1.0-SNAPSHOT'
 
 repositories {
